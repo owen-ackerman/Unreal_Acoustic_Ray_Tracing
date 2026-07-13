@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal-Projects\\Unreal Projects\\AcousticRayTracing\\Intermediate\\Source\\AcousticRayTracing.Build.cs",
+		"D:\\Unreal-Projects\\Unreal Projects\\AcousticRayTracing\\Intermediate\\Source\\AcousticRayTracing.Target.cs",
+		"D:\\Unreal-Projects\\Unreal Projects\\AcousticRayTracing\\Intermediate\\Source\\AcousticRayTracingClient.Target.cs",
+		"D:\\Unreal-Projects\\Unreal Projects\\AcousticRayTracing\\Intermediate\\Source\\AcousticRayTracingEditor.Target.cs",
+		"D:\\Unreal-Projects\\Unreal Projects\\AcousticRayTracing\\Intermediate\\Source\\AcousticRayTracingServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}

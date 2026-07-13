@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/PinkNoise.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/NewSoundAttenuation.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/NewMetaXRAudioSourceSettings.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/audiocheck_net_pinknoise_1_.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/NewSoundSubmix.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Audio/NewSoundEffectSubmixPreset.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Unreal-Projects/Unreal Projects/AcousticRayTracing/Content/Characters/NewSoundCue.uasset"
+			]
+		}
+	]
+}
